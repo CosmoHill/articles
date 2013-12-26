@@ -22,8 +22,8 @@ Sometimes I wonder how these people found the internet at all without accidental
 
 "),
 	array(
-	'title' => 'War! What is it good for? Sales.',
-	'subtitle' => 'This is my first subtitle',
+	'title' => '"War! What is it good for? Sales."',
+	'subtitle' => '"This is my first subtitle"',
 	'datemaj' => 'jan',
 	'datemin' => 'uary',
 	'day' => '01',
